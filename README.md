@@ -34,7 +34,7 @@
 
 ### Back-end
 <img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/php-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/php-339933.svg?&style=for-the-badge&logo=php&logoColor=white"></img>
 
 ### Banco de Dados
 <img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
