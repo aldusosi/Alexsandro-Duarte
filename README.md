@@ -1,4 +1,4 @@
-<h3 align="center"> -- Olá! Sou Alexsandro Duarte -- 😃<h3>
+<h3 align="center"> -- Olá! Sou Alexsandro Duarte -- <h3>
 
  <img src="./assets/EuPixelArt.png" alt="Khoby" min-width="400px" max-width="200px" width="190px" align="right"> 
 
@@ -9,13 +9,13 @@
 - 🙋‍♂️ Unity/C# Developer | Desenvolvedor Front-End | Game Developer | Desenvolvedor Back-End.
 - 📚 Tecnólogo em Jogos Digitais | Especialista em Desenvolvimento de Jogos.
 - 🚩 Aprender mais a cada dia.
-- 🧩 Hobbys: Assistir Futebol | Ver Filmes | Jogar Video Game 🧐
+- 🧩 Hobbys: Assistir Futebol | Ver Filmes | Jogar Video Game 
 
 
 ## Me Contate
 
-<a href="https://www.linkedin.com/in/alexsandro-duart"><img align="left" alt="Magah051 | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href="pocmusic321@gmail.com"><img align="left" alt="Magah051 | Gmail" width="38px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"></a>
+<a href="https://www.linkedin.com/in/alexsandro-duart"><img align="left" alt="Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="pocmusic321@gmail.com"><img align="left" alt="pocmusic321@gmail.com" width="38px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"></a>
 <br />
 
 ## Tecnologias 
