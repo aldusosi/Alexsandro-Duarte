@@ -3,9 +3,6 @@
  <img src="./assets/EuPixelArt.png" alt="Khoby" min-width="400px" max-width="200px" width="190px" align="right"> 
 
 <p align="left">
-  <!--
- <a href="https://discordapp.com/users/676156690395037713/" target="_blank"><img alt="Discord" src="https://img.shields.io/website?label=zF4ke%238556&style=for-the-badge&logo=discord&url=https://discordapp.com/users/676156690395037713/"></a></p>
- -->
 
 ## Sobre mim
 
