@@ -1,6 +1,6 @@
 <h3 align="center"> -- Olá! Sou Alexsandro Duarte -- 😃<h3>
 
- <img src="./assets/EuPixelArt.png" alt="Khoby" min-width="400px" max-width="350px" width="350px" align="right"> 
+ <img src="./assets/EuPixelArt.png" alt="Khoby" min-width="400px" max-width="250px" width="250px" align="right"> 
 
 <p align="left">
   <!--
